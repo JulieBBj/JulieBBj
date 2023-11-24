@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulieBBj
 - 👀 I’m interested in public economics and taxation 
-- 📫 How to reach me julie.brun.bjorkheim@nmbu.no 
+- 📫 How to reach me julie.bjorkheim@nhh.no 
 
 <!---
 JulieBBj/JulieBBj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
